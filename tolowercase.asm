@@ -29,6 +29,4 @@ MIDDLEWHILE:
     INT 21H;
     END BEGIN    
     
-;LOWERCASE:
-    
     
